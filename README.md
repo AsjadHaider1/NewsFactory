@@ -1,0 +1,1 @@
+A Newsapp where we can have daily news globally with the help of API from NeawsApp .

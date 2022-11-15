@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "buzzfeed",
+          "name": "Buzzfeed"
+        },
+        "author": "Noah Mayfield",
+        "title": "Eat A Fast Food Feast And We'll Reveal Your Biggest Red Flag And Green Flag",
+        "description": "French fry haters are the biggest red flags. ",
+        "url": "https://www.buzzfeed.com/noahyuppers/red-flag-green-flag-fast-food-quiz",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-09/12/16/enhanced/3ff16fa21728/original-7811-1663000819-7.jpg?crop=1200:628;0,0%26downsize=1250:*",
+        "publishedAt": "2022-09-14T16:07:25.1544309Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "independent",
+          "name": "Independent"
+        },
+        "author": "Nadeine Asbali",
+        "title": "Food banks closed, funerals postponed, cancer scans cancelled – ‘national mourning’ is getting out of hand",
+        "description": "Even those who deeply mourn the loss of the Queen can surely see the hypocrisy and irony of the situation",
+        "url": "http://www.independent.co.uk/voices/queen-funeral-food-banks-funerals-medical-appointments-b2167095.html",
+        "urlToImage": "https://static.independent.co.uk/2022/09/14/14/urnpublicidap.orgb2999f5e94674f61b9e18cb3a0350995.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2022-09-14T15:36:23Z",
+        "content": "Sometimes it feels like Britain is a parody of itself. Almost too ironic, too ridiculous to quite be real, like were all stuck inside some particularly grey version of The Matrix where the aim is to … [+5568 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news-uk",
+          "name": "Google News (UK)"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "McDonald's to close for Queen's funeral on Monday",
+        "description": "The fast food chain will shut all its restaurants until 5pm on 19 September.",
+        "url": "https://www.bbc.co.uk/news/business-62903404",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3381/production/_122358131_frenchfries.jpg",
+        "publishedAt": "2022-09-14T14:28:21+00:00",
+        "content": "By Noor NanjiBusiness reporter, BBC News\r\nMcDonald's is to close all of its UK restaurants on Monday 19 September, as a mark of respect to Queen Elizabeth II on the day of her funeral.\r\nThe fast food… [+3494 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Wired",
+        "title": "A GMO Purple Tomato Is Coming to Grocery Aisles. Will the US Bite?",
+        "description": "Most genetically engineered foods were developed to aid farmers. This one will try to sway over health-conscious produce shoppers.",
+        "url": "https://www.wired.com/story/a-gmo-purple-tomato-is-coming-to-grocery-aisles-will-the-us-bite/",
+        "urlToImage": "https://media.wired.com/photos/6320e026995b6da54b57ef0c/191:100/w_1280,c_limit/JIC-purple-tomato-4_science_DSC6194.jpg",
+        "publishedAt": "2022-09-14T11:00:00Z",
+        "content": "In December 2004, plant scientist Cathie Martin went to the greenhouse to check on her tomatoes. The tiny fruits, about the size of gumdrops, were still green. These miniature tomatoes, a variety wid… [+3246 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Dipak K Dash",
+        "title": "Government to provide 5 kg free food grains to poor for May & June",
+        "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+        "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2021-04-23T04:23:00Z",
+        "content": null
+      }
+    ]
+  }
